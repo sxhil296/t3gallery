@@ -1,9 +1,9 @@
-# [T3GALLERY]()
+# [T3GALLERY](https://t3gallery-ochre-nu.vercel.app/)
 
 ## TODO
 
-- [ ] Make in deploy on vercel
-- [ ] Scaffold basic ui with mock data
+- [x] Make in deploy on vercel
+- [x] Scaffold basic ui with mock data
 - [ ] Actually set up a database (drizzle, vercel postgres)
 - [ ] Attach database to UI
 - [ ] Add authentication (w/ clerk)
